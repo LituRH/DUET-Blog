@@ -1,0 +1,19 @@
+table.t1 {width:450px;text-align:left; float:left; color:black;} 
+table.t1 td {padding: 4px 10px 4px 20px; FONT-SIZE: 12px; font-family: Georgia, "Times New Roman", Times, serif; color:black;text-align:left; } 
+table.t1 th{padding: 4px 10px 4px 20px; font-size: 12px;text-align:left; font-family: Georgia, "Times New Roman", Times, serif;background-color: #ddd;  color:black; }
+
+table.t1 tr.r1 td {  color:black; } 
+table.t1 tr.r0 td { color:black;} 
+
+
+
+.bod { background-color:#FFF;
+  -webkit-box-shadow: 6px 7px 109px 34px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px 7px 109px 34px rgba(0,0,0,0.75);
+box-shadow: 6px 7px 109px 34px rgba(0,0,0,0.75);
+text-align:center;
+}
+.hed1{font-family:"Times New Roman", Times, serif; font-weight:200; font-size:20px; text-align:left;}
+.memo{ padding-left:10px; font-family:"Times New Roman", Times, serif; font-size:16px;}
+.dat{ padding-left:350px; font-family:"Times New Roman", Times, serif; font-size:16px;}
+#searchs {width:900px;)
